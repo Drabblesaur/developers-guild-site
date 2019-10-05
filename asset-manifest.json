@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/developers-guild-site/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/developers-guild-site/static/js/main.93cd0804.chunk.js",
+    "main.js.map": "/developers-guild-site/static/js/main.93cd0804.chunk.js.map",
+    "runtime-main.js": "/developers-guild-site/static/js/runtime-main.5a9a14bd.js",
+    "runtime-main.js.map": "/developers-guild-site/static/js/runtime-main.5a9a14bd.js.map",
+    "static/css/2.0624914a.chunk.css": "/developers-guild-site/static/css/2.0624914a.chunk.css",
+    "static/js/2.f2ca4ee6.chunk.js": "/developers-guild-site/static/js/2.f2ca4ee6.chunk.js",
+    "static/js/2.f2ca4ee6.chunk.js.map": "/developers-guild-site/static/js/2.f2ca4ee6.chunk.js.map",
+    "index.html": "/developers-guild-site/index.html",
+    "precache-manifest.5717197d95d8bbe13af926227cb9d479.js": "/developers-guild-site/precache-manifest.5717197d95d8bbe13af926227cb9d479.js",
+    "service-worker.js": "/developers-guild-site/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/developers-guild-site/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/developers-guild-site/static/css/main.5ecd60fb.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a9a14bd.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.f2ca4ee6.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.93cd0804.chunk.js"
+  ]
+}
