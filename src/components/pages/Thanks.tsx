@@ -2,6 +2,7 @@ import React from "react";
 import { Container,Card,Media } from "react-bootstrap";
 import { useQuery } from "react-query";
 import { StyleSheet, css } from 'aphrodite';
+import Thanks_Icon from"../graphic-assets/Thanks_Icon.svg";
 
 
 type Post = {
@@ -37,6 +38,13 @@ export const Thanks: React.FC = () => {
         width={64}
         height={64}
         src="https://cdn.discordapp.com/avatars/480160173361725451/43a19472064aed12d00311b7de8fa67b.webp"
+        />
+         <img
+          src={Thanks_Icon}
+          alt="Logo"
+          width="30"
+          height="30"
+          className="d-inline-block align-top"
         />
         <img
         width={54}
